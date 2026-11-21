@@ -1,0 +1,20 @@
+[
+  {
+    "cycle": 0,
+    "byte": 14,
+    "byteHex": "0x0e",
+    "channel": 2,
+    "kind": "periodHi",
+    "field": 14,
+    "usedLatch": true
+  },
+  {
+    "cycle": 100,
+    "byte": 208,
+    "byteHex": "0xd0",
+    "channel": 2,
+    "kind": "vol",
+    "field": 0,
+    "usedLatch": false
+  }
+]
